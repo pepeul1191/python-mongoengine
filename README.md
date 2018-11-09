@@ -27,8 +27,8 @@ logging.warning('And this, too')
 
 ### Fuentes
 
-+ https://npyscreen.readthedocs.io/introduction.html
-+ https://npyscreen.readthedocs.io/application-structure.html
++ http://docs.mongoengine.org/guide/connecting.html#guide-connecting
++ https://stackoverflow.com/questions/29495037/mongoengine-ignore-extra-fields-for-schema-validation
 
 Thanks/Credits
 
