@@ -30,6 +30,7 @@ logging.warning('And this, too')
 + http://docs.mongoengine.org/guide/connecting.html#guide-connecting
 + https://stackoverflow.com/questions/29495037/mongoengine-ignore-extra-fields-for-schema-validation
 + http://docs.mongoengine.org/apireference.html
++ https://valarmorghulis.io/tech/201701-mongodb-join-query-with-aggregate/
 
 Thanks/Credits
 
